@@ -49,7 +49,7 @@ public class manutencao_cidade extends javax.swing.JDialog {
 
         jLabel3.setText("Nome:");
 
-        jLabel4.setText("VF:");
+        jLabel4.setText("UF");
 
         jTextField2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
